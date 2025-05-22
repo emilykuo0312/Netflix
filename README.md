@@ -22,3 +22,9 @@ The dataset contains information about Netflix’s movies and TV shows, includin
 - **Genres**
 - **Date Added**
 - **Cast & Crew**
+
+## the result of power bi
+![image](https://github.com/user-attachments/assets/babf9f0e-7a60-4887-9dc6-8ec8b0dce63f)
+![image](https://github.com/user-attachments/assets/b311ff9a-9d3d-4161-b979-6b379adbb0f3)
+
+
